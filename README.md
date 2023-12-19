@@ -3,4 +3,4 @@
 3.project4是成績計算網站，裡面大量使用querySelector、createElement、addEventListener、forEach，排序演算法使用mergeSort。  
 4.project5是貪食蛇遊戲，用canvas作為畫布，class製作果實，array製作蛇，unshift和pop設定吃到果實蛇的變化，用setInterval讓畫面更新，讓蛇移動。  
 5.project6是彈跳球遊戲，和project5使用一樣的邏輯製作。  
-6.project7是google登入網站，後端使用node.js，資料庫連結mongoDB，並使用ejs渲染網頁，本地登入用bcrypt加密，設置google OAuth並用passport連結
+6.project7是google登入網站，後端使用node.js，資料庫連結mongoDB，並使用ejs渲染網頁，本地登入用bcrypt加密，設置google OAuth並用passport連結。
